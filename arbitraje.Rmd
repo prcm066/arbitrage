@@ -1,0 +1,23 @@
+---
+title: "Arbitraje"
+author: "Pablo Rodriguez Chavez"
+date: "March 19, 2018"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduccion
+
+## Condiciones
+
+## Exchanges que exponen un API
+
+## Critpomonedas
+
+## Riesgos
+
+
+
